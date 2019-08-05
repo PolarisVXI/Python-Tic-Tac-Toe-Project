@@ -1,0 +1,10 @@
+#
+
+# board
+# display board
+# play game
+    # check rows
+    # check columns
+    # check diagnols
+# check tie
+# flip player
